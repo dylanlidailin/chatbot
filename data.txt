@@ -1,0 +1,15 @@
+Linear regression is a statistical method for modeling the relationship between one (simple regression) or more (multiple regression) explanatory variables and a continuous outcome variable. At its core, it assumes that the expected value of the outcome can be expressed as a weighted sum of the input features plus an intercept. Formally, for a single predictor 
+x and response y, the model is y=β0+β1x+ε, where β0 is the intercept, β1 the slope, and ε the error term capturing noise or unmodeled effects.
+
+Uses of Linear Regression
+
+Prediction: Once fitted, the model can forecast new outcomes.
+Inference: The estimated coefficients (β) quantify the strength and direction of associations—e.g., how much y changes for a one-unit change in x.
+Trend analysis: Detects and describes linear trends over time or across levels of a predictor.
+Feature evaluation: Helps identify which inputs have meaningful predictive power.
+
+Examples
+Education: Predict a student’s final exam score from hours studied and attendance rate.
+Real Estate: Estimate house prices based on square footage, number of bedrooms, and lot size.
+Economics: Model consumer spending as a function of disposable income and interest rates.
+Health Sciences: Relate blood pressure to age, weight, and cholesterol level to assess risk factors.
